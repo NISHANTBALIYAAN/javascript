@@ -1,0 +1,18 @@
+const name = new String("Nishan 567 tbaliyan");
+console.log(name.length)
+console.log(name.substring(0,4))
+console.log(name.substring(1,4))
+console.log(name.slice(-13,-8))
+const myname=   "    helloyellow    "
+console.log(myname.trim())
+console.log(myname.trimEnd())
+console.log(myname.trimStart())
+console.log(name.replace("567",0))
+console.log(name.includes("nishan"))
+console.log(name.split(''))
+console.log(name.split(""))
+console.log(name.small())
+console.log(name.fontcolor('red'))
+console.log(name.constructor )
+console.log(name.length)
+console.log(name.length)
